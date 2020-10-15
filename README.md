@@ -36,7 +36,7 @@ Volt Pro is a premium Bootstrap 5 Admin Dashboard featuring over 800 components,
 
 <br />
 
-![Boierplate Code Django Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-volt-pro/master/media/django-dashboard-volt-pro-screen.png)
+![Django Dashboard Volt PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-volt-pro/main/media/django-dashboard-volt-pro-intro.gif)
 
 <br />
 
