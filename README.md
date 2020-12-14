@@ -6,6 +6,7 @@
 
 ## [Django Dashboard](http://appseed.us/admin-dashboards/django) Features
 
+- UI Kit: Volt Dashboard PRO (v1.2.0) by Themesberg
 - Reference Codebase - [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard)
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, best practices codebase
