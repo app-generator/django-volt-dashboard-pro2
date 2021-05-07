@@ -19,8 +19,8 @@
 > Links
 
 - [Django Volt PRO](https://appseed.us/admin-dashboards/django-dashboard-volt-pro) - product page
-- [Django Volt PRO - Demo](https://django-volt-pro.appseed-srv1.com/) - LIVE deployment
-- [Django Volt PRO - Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-volt-pro/) - Product documentation
+- [Django Volt PRO](https://django-volt-pro.appseed-srv1.com/) - LIVE deployment
+- [Django Volt PRO](https://docs.appseed.us/products/django-dashboards/volt-pro) - product documentation
 
 <br />
 
