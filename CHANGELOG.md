@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.4] 2021-06-30
+
+- Update UI - Volt PRO v1.4.1
+- Added scripts to recompile the SCSS files
+    - `core/static/assets/` - gulpfile.js
+    - `core/static/assets/` - package.json
+
 ## [1.0.3] 2021-06-15
 
 - Correct 404 Links - UI Docs 
