@@ -4,10 +4,10 @@
 
 <br />
 
-## [Django Dashboard](http://appseed.us/admin-dashboards/django) Features
+> Features
 
+- Up-to-date dependencies: **Django 3.2.6 LTS**
 - UI Kit: **Volt Dashboard PRO** by **Themesberg**
-- Codebase - [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard)
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, best practices codebase
 - Session-Based Authentication, Forms validation
