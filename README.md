@@ -147,9 +147,9 @@ The project is coded using a simple and intuitive structure presented below:
 > ENV Tests 
 
 | NodeJS | NPM | YARN | Gulp | Status | 
-| --- | --- | --- | --- |  --- | 
-| `v14.15.0` | `v6.14.8`  | `v1.22.5` | `CLI version: 2.3.0` | ✔️ |
-| `v12.22.0` | `v6.14.11` | `v1.22.5` | `CLI version: 2.3.0` | ✔️ |
+| --- | --- | --- | --- | --- | 
+| `v14.15.0` | `v6.14.8`  | `v1.22.5` | `CLI version: 2.3.0` | ✔️ | 
+| `v12.22.0` | `v6.14.11` | `v1.22.5` | `CLI version: 2.3.0` | ✔️ | 
 
 <br />
 
