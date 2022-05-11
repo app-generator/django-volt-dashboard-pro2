@@ -1,4 +1,4 @@
-# [Django Dashboard](http://appseed.us/admin-dashboards/django) - Volt Bootstrap 5 PRO
+# [Django Volt PRO](https://appseed.us/product/volt-dashboard-pro/django/)
 
 **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **[Volt Dashboard PRO](https://docs.appseed.us/bootstrap-template/volt-dashboard-pro/)** (premium version), a modern Bootstrap dashboard design. Volt Pro is a premium Bootstrap 5 Admin Dashboard featuring over 800 components, 20 example pages and 10 fully customized plugin written in Vanilla Javascript. 
 
@@ -19,9 +19,8 @@
 
 > Links
 
-- [Django Volt PRO](https://appseed.us/admin-dashboards/django-dashboard-volt-pro) - product page
-- [Django Volt PRO](https://django-volt-pro.appseed-srv1.com/) - LIVE deployment
-- [Django Volt PRO](https://docs.appseed.us/products/django-dashboards/volt-pro) - product documentation
+- 👉 [Django Volt PRO](https://appseed.us/product/volt-dashboard-pro/django/) - product page
+- 👉 [Django Volt PRO](https://django-volt-pro.appseed-srv1.com/) - LIVE deployment
 
 <br />
 
@@ -272,4 +271,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Django Dashboard Volt PRO](https://appseed.us/admin-dashboards/django-dashboard-volt-pro) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+[Django Volt PRO](https://appseed.us/product/volt-dashboard-pro/django/) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
