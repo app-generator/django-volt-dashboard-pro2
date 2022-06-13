@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.8] 2022-06-13
+### Improvements
+
+- Built with [Volt Dashboard Generator](https://appseed.us/generator/volt-dashboard-pro/)
+  - Timestamp: `2022-06-13 12:14`
+- Improved `Auth UX`
+
 ## [1.0.7] 2022-02-17 
 ### Fixes
 
