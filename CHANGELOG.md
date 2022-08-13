@@ -1,5 +1,33 @@
 # Change Log
 
+## [1.0.11] 2022-08-13 
+### Fixes
+
+- Update for Production Deploy
+  - Use `ASSETS_ROOT` instead of `{% 'static' tag %}`
+
+## [1.0.10] 2022-08-13 
+### Improvements
+
+- Authentication:
+  - Social Login Via Github & Twitter
+  - Self Deletion, Update Password
+  - Tasks Module
+  - Transactions Module
+- Improved Docker Scripts  
+
+## [1.0.9] 2022-06-17 
+### New features: 
+
+- Extended User Profile
+- Users Management for `Superusers`
+- Tasks: `add`, `remove`, `assign`
+  - filtered view per user
+  - full management for `Superusers` 
+- Transactions: `add`, `remove`, `assign`
+  - filtered view per user
+  - full management for `Superusers` 
+  
 ## [1.0.8] 2022-06-13
 ### Improvements
 

@@ -2,17 +2,32 @@
 
 Django Dashboard coded with basic modules, database, ORM and deployment scripts on top of Volt Dashboard PRO (premium version), a modern Bootstrap dashboard design. Volt Pro is a premium Bootstrap 5 Admin Dashboard featuring over 800 components, 20 example pages and 10 fully customized plugin written in Vanilla Javascript.
 
+> **Basic Version**
+
+- `Up-to-date dependencies`, active versioning
+- `Session-Based authentication`
+- `Docker`
+
+> **Extended Version** 
+
+- `Authentication`
+  - Social Login (optional) for Github & Twitter
+  - Automatic suspension on failed logins 
+  - Change Password, Self Deletion
+- `Task Module`
+  - Create, Delete and assign tasks 
+- `Transactions Module`
+  - Create, Delete and Edit Transactions 
+- `Users Management` 
+  - `Extended user profile`
+  - Complete Users management (for `Admins`) 
+    - Edit users, suspend/unsuspend
+
+<br />
+
 - 👉 [Volt Dashboard PRO Django](https://appseed.us/product/volt-dashboard-pro/django/) - Product page
-- 👉 [Volt Dashboard PRO Django](https://django-volt-pro.appseed-srv1.com/) - LIVE Demo
+- 👉 [Volt Dashboard PRO Django](https://django-volt-enh.appseed-srv1.com/) - LIVE Demo
 - 👉 [Complete documentation](https://docs.appseed.us/products/django-dashboards/volt-pro) - `Learn how to use and update the product`
-  - ✅ [Set up the environment](https://docs.appseed.us/products/django-dashboards/volt-pro#environment)
-  - ✅ [Manage App users](https://docs.appseed.us/products/django-dashboards/volt-pro#manage-app-users)
-  - ✅ [Application Bootstrap Flow](https://docs.appseed.us/products/django-dashboards/volt-pro#application-bootstrap-flow)
-  - ✅ [App Routing](https://docs.appseed.us/products/django-dashboards/volt-pro#project-routing)
-  - ✅ [UI Assets and Templates](https://docs.appseed.us/products/django-dashboards/volt-pro#ui-assets-and-templates)
-  - ✅ [Set up the MySql Database](https://docs.appseed.us/products/django-dashboards/volt-pro#set-up-the-mysql-database)
-  - ✅ [Adding a new app](https://docs.appseed.us/products/django-dashboards/volt-pro#adding-a-new-app)
-  - ✅ [Static Assets for production](https://docs.appseed.us/products/django-dashboards/volt-pro#static-assets-for-production)  
   
 <br />
 
@@ -49,27 +64,7 @@ $ cd django-volt-dashboard-pro
 
 <br />
 
-> **Step 2** - Edit `.env` and remove or comment all `DB_*` settings (`DB_ENGINE=...`). This will activate the `SQLite` persistance. 
-
-```txt
-DEBUG=True
-
-# Deployment SERVER address
-SERVER=.appseed.us
-
-# For MySql Persistence
-# DB_ENGINE=mysql            <-- REMOVE or comment for Docker
-# DB_NAME=appseed_db         <-- REMOVE or comment for Docker  
-# DB_HOST=localhost          <-- REMOVE or comment for Docker 
-# DB_PORT=3306               <-- REMOVE or comment for Docker
-# DB_USERNAME=appseed_db_usr <-- REMOVE or comment for Docker
-# DB_PASS=<STRONG_PASS>      <-- REMOVE or comment for Docker
-
-```
-
-<br />
-
-> **Step 3** - Start the APP in `Docker`
+> **Step 2** - Start the APP in `Docker`
 
 ```bash
 $ docker-compose up --build 
@@ -78,8 +73,6 @@ $ docker-compose up --build
 Visit `http://localhost:5085` in your browser. The app should be up & running.
 
 <br />
-
-
 
 ## ✨ How to use it
 
