@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.0.12] 2022-08-21 
+### Fixes & Improvements
+
+- Login possible with USER or EMAIL
+- Warn user on self-deletion 
+  - if the account has linked tasks or transactions
+- Minor JS warnings & Fixes
+- Code CleanUP (minor) 
+
 ## [1.0.11] 2022-08-13 
 ### Fixes
 
@@ -27,13 +36,15 @@
 - Transactions: `add`, `remove`, `assign`
   - filtered view per user
   - full management for `Superusers` 
-  
-## [1.0.8] 2022-06-13
-### Improvements
 
-- Built with [Volt Dashboard Generator](https://appseed.us/generator/volt-dashboard-pro/)
-  - Timestamp: `2022-06-13 12:14`
-- Improved `Auth UX`
+## [1.0.8] 2022-05-15 
+### Custom Code
+
+- Integrate `PlotLy`
+  - New app `charts`
+  - Hello World: http://localhost:8000/charts/index
+  - Plotly (no Volt Integration): http://localhost:8000/charts/index2
+  - Plotly + Volt: http://localhost:8000/charts/index3 
 
 ## [1.0.7] 2022-02-17 
 ### Fixes
