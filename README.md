@@ -2,6 +2,12 @@
 
 Django Dashboard coded with basic modules, database, ORM and deployment scripts on top of Volt Dashboard PRO (premium version), a modern Bootstrap dashboard design. Volt Pro is a premium Bootstrap 5 Admin Dashboard featuring over 800 components, 20 example pages and 10 fully customized plugin written in Vanilla Javascript.
 
+- 👉 [Volt Dashboard PRO Django](https://appseed.us/product/volt-dashboard-pro/django/) - Product page
+- 👉 [Volt Dashboard PRO Django](https://django-volt-enh.appseed-srv1.com/) - LIVE Demo
+- 👉 [Complete documentation](https://docs.appseed.us/products/django-dashboards/volt-pro) - `Learn how to use and update the product`
+  
+<br />
+
 > **Basic Version**
 
 - `Up-to-date dependencies`, active versioning
@@ -22,29 +28,6 @@ Django Dashboard coded with basic modules, database, ORM and deployment scripts 
   - `Extended user profile`
   - Complete Users management (for `Admins`) 
     - Edit users, suspend/unsuspend
-
-<br />
-
-- 👉 [Volt Dashboard PRO Django](https://appseed.us/product/volt-dashboard-pro/django/) - Product page
-- 👉 [Volt Dashboard PRO Django](https://django-volt-enh.appseed-srv1.com/) - LIVE Demo
-- 👉 [Complete documentation](https://docs.appseed.us/products/django-dashboards/volt-pro) - `Learn how to use and update the product`
-  
-<br />
-
-> Built with [Volt Dashboard Generator](https://appseed.us/generator/volt-dashboard-pro/)
-
-- Timestamp: `2022-06-13 12:14`
-- Build ID: `6af787a2-5ec9-4b45-9ba6-ac3aa39dcb1a`
-- **Free [Support](https://appseed.us/support/)** (registered users) via `Email` and `Discord`
-
-<br />
-
-> Features
-
-- `Up-to-date dependencies`
-- Database: `sqlite`
-- UI-Ready app, Django Native ORM
-- `Session-Based authentication`, Forms validation
 
 <br />
 
