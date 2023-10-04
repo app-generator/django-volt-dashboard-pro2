@@ -1,9 +1,9 @@
 # Django Volt Dashboard PRO
 
-[Django Dashboard](https://appseed.us/admin-dashboards/django/) coded with basic modules, database, ORM and deployment scripts on top of Volt Dashboard PRO (premium version), a modern Bootstrap dashboard design. Volt Pro is a premium Bootstrap 5 Admin Dashboard featuring over 800 components, 20 example pages and 10 fully customized plugin written in Vanilla Javascript.
+**[Django Dashboard](https://appseed.us/admin-dashboards/django/)** coded with basic modules, database, ORM, and deployment scripts on top of Volt Dashboard PRO (premium version), a modern Bootstrap dashboard design. Volt Pro is a premium Bootstrap 5 Admin Dashboard featuring over 800 components, 20 example pages, and 10 fully customized plugins written in Vanilla Javascript.
 
-- 👉 [Volt Dashboard PRO Django](https://appseed.us/product/volt-dashboard-pro/django/) - Product page
-- 👉 [Volt Dashboard PRO Django](https://django-volt-enh.appseed-srv1.com/) - LIVE Demo
+- 👉 [Volt Dashboard PRO Django](https://appseed.us/product/volt-dashboard-pro/django/) - `Product page`
+- 👉 [Volt Dashboard PRO Django](https://django-volt-enh.appseed-srv1.com/) - `LIVE Demo`
 - 👉 [Complete documentation](https://docs.appseed.us/products/django-dashboards/volt-pro) - `Learn how to use and update the product`
   
 <br />
